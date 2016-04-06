@@ -12,8 +12,8 @@ An Unreal 4 Project for CS390 Final Project.
 
 ## Contributors
 
-@HarrisChristiansen (http://www.harrischristiansen.com)
-@balderfer
+@HarrisChristiansen (http://www.harrischristiansen.com)  
+@balderfer  
 
 ## License
 
